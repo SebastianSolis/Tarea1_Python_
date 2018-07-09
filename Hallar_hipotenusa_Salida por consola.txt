@@ -1,6 +1,0 @@
-Ingrese el cateto a: 
-Ingrese el cateto b: 
-La hipotenusa del triángulo con los catetos:  
- 12.0 
- 5.0 
- Es:  13.0
